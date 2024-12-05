@@ -56,7 +56,16 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["", "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/DayNightCloudMicroCombo/GOES16-CONUS-DayNightCloudMicroCombo-625x375.gif",],
+  ["CONUS FD",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/1808x1808.jpg",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/12/1808x1808.jpg",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/11/1808x1808.jpg",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/09/1808x1808.jpg",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/08/1808x1808.jpg",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/07/1808x1808.jpg",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/06/1808x1808.jpg",
+"https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/01/1808x1808.jpg",
+],
   [
     "WARNINGS",
     "https://climate.cod.edu/data/satellite/regional/southcentral/current/southcentral.ww.gif",
